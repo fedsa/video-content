@@ -1,3 +1,4 @@
+Schalk Venter: **https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)**
 
 Schalk Venter: **https://github.com/preactjs/preact-cli/wiki/Config-Recipes**
 
