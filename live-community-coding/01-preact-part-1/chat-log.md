@@ -25,7 +25,8 @@ Lourens de Villiers: **Nvm it’s 3kb wow its smal;**
 
 Lourens de Villiers: **React DOM is the big one it seems**
 
-Lourens de Villiers: ```
+Lourens de Villiers: 
+```
 react is 5.3 kb (2.2 kb gzipped), down from 20.7 kb (6.9 kb gzipped).
 react-dom is 103.7 kb (32.6 kb gzipped), down from 141 kb (42.9 kb gzipped).
 react + react-dom is 109 kb (34.8 kb gzipped), down from 161.7 kb (49.8 kb gzipped).
@@ -39,7 +40,8 @@ Schalk Venter: **https://www.figma.com/file/yqrkhTA5ovEZPW0vLy5Vga/CTT-CAN-Copy?
 
 Schalk Venter: **https://realfavicongenerator.net/**
 
-Schalk Venter: ```
+Schalk Venter: 
+```
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">**
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
