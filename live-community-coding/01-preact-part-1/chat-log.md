@@ -25,9 +25,11 @@ Lourens de Villiers: **Nvm it’s 3kb wow its smal;**
 
 Lourens de Villiers: **React DOM is the big one it seems**
 
-Lourens de Villiers: **react is 5.3 kb (2.2 kb gzipped), down from 20.7 kb (6.9 kb gzipped).**
+Lourens de Villiers: ```
+react is 5.3 kb (2.2 kb gzipped), down from 20.7 kb (6.9 kb gzipped).
 react-dom is 103.7 kb (32.6 kb gzipped), down from 141 kb (42.9 kb gzipped).
 react + react-dom is 109 kb (34.8 kb gzipped), down from 161.7 kb (49.8 kb gzipped).
+```
 
 Schalk Venter: **https://css-tricks.com/a-complete-guide-to-links-and-buttons/**
 
