@@ -64,7 +64,7 @@ Justin: **Lots of resources here**
 
 Justin: **https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA**
 
-Craig Stroberg: **Whoops my very site I needed to make accessible 4 years ago I set the tabbing. My testing was covering my eyes and listening **
+Craig Stroberg: **Whoops my very site I needed to make accessible 4 years ago I set the tabbing. My testing was covering my eyes and listening**
 
 Tania Melnyczuk: **It's sort of odd that those core personas don't have a dyslexic and a person with seizure disorders, or someone with gross/fine motor issues.**
 
